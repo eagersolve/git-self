@@ -1,3 +1,3 @@
-# Gir and Github
+# Git and Github
 
 Hello motherfucker
